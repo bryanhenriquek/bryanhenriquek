@@ -1,4 +1,4 @@
-## Olá, eu sou o Bryan Henrique! 👋
+## Oii eu sou o Bryan! 👋
 
 Desenvolvedor Front-end focado em criar experiências incríveis para Web e Mobile.
 
@@ -11,7 +11,7 @@ Desenvolvedor Front-end focado em criar experiências incríveis para Web e Mobi
   <img align="center" alt="Bryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## Conecte-se comigo:
+##
 
 <div> 
   <a href="https://www.linkedin.com/in/bryan-henrique-674514260/" target="_blank">
